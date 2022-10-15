@@ -1,0 +1,46 @@
+.card {
+  width: 260px;
+  height: 595px;
+  box-sizing: border-box;
+  border-radius: 0px 0px 0px 20px;
+  margin: auto;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.foto {
+  width: 100%;
+  display: block;
+}
+
+.s-1 {
+  margin: 15px;
+}
+
+.title {
+  font-family: "Playfair Display";
+  font-size: 40px;
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+
+.title-2 {
+  font-family: "Montserrat";
+  font-weight: 400;
+  color: rgb(206, 144, 0);
+  padding-top: 20px;
+}
+
+.text {
+  font-family: "Montserrat";
+  font-weight: 400;
+  padding: 10px 0px 22px 0px;
+}
+
+.bottom {
+  color: rgb(255, 255, 255);
+  padding: 10px 20px;
+  background-color: rgb(206, 144, 0);
+  border-radius: 0px 0px 0px 20px;
+  text-decoration: none;
+  font-size: 40px;
+}
